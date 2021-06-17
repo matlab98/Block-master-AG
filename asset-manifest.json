@@ -1,23 +1,20 @@
 {
   "files": {
     "main.css": "/Block-master-AG/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/Block-master-AG/static/js/main.6c266f62.chunk.js",
-    "main.js.map": "/Block-master-AG/static/js/main.6c266f62.chunk.js.map",
-    "runtime-main.js": "/Block-master-AG/static/js/runtime-main.127f779e.js",
-    "runtime-main.js.map": "/Block-master-AG/static/js/runtime-main.127f779e.js.map",
+    "main.js": "/Block-master-AG/static/js/main.4a32d264.chunk.js",
+    "main.js.map": "/Block-master-AG/static/js/main.4a32d264.chunk.js.map",
+    "runtime-main.js": "/Block-master-AG/static/js/runtime-main.caf898cc.js",
+    "runtime-main.js.map": "/Block-master-AG/static/js/runtime-main.caf898cc.js.map",
     "static/js/2.cc7f9583.chunk.js": "/Block-master-AG/static/js/2.cc7f9583.chunk.js",
     "static/js/2.cc7f9583.chunk.js.map": "/Block-master-AG/static/js/2.cc7f9583.chunk.js.map",
-    "static/js/3.1ed0876f.chunk.js": "/Block-master-AG/static/js/3.1ed0876f.chunk.js",
-    "static/js/3.1ed0876f.chunk.js.map": "/Block-master-AG/static/js/3.1ed0876f.chunk.js.map",
     "index.html": "/Block-master-AG/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/Block-master-AG/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.cc7f9583.chunk.js.LICENSE.txt": "/Block-master-AG/static/js/2.cc7f9583.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Block-master-AG/static/media/logo.6ce24c58.svg"
+    "static/js/2.cc7f9583.chunk.js.LICENSE.txt": "/Block-master-AG/static/js/2.cc7f9583.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.127f779e.js",
+    "static/js/runtime-main.caf898cc.js",
     "static/js/2.cc7f9583.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.6c266f62.chunk.js"
+    "static/js/main.4a32d264.chunk.js"
   ]
 }
